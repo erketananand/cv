@@ -10,5 +10,3 @@ yarn run dev (or npm run dev)
 ```
 
 ---
-
-This project was built using [Vuets](https://github.com/AkiraLaine/Vuets)
