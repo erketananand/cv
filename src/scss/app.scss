@@ -1,0 +1,26 @@
+body {
+    font-family: "Optima-Regular", "Optima", "Avenir", Helvetica, Arial,
+        sans-serif;
+}
+
+table tr:first-child td {
+    border-top: none;
+}
+
+td>ul>li:first-child {
+    padding: 0;
+}
+
+td>ul>li {
+    list-style-type: none;
+    padding: 15px 0 0 0;
+}
+
+td.left-padding {
+    clear: both;
+    padding-left: 50px;
+}
+
+h6 {
+    font-weight: bolder;
+}

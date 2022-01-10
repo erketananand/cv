@@ -1,0 +1,143 @@
+{
+  "name": "Ketan Anand",
+  "contact": {
+    "email": "ktan2050@gmail.com",
+    "phone": "+91-9566198332"
+  },
+  "experiences": [{
+      "company": "FactSet Systems India Pvt Ltd",
+      "title": "Software Engineer III",
+      "location": "Hyderabad, India",
+      "date": "December 2019 to Present",
+      "desc": {
+        "info": "",
+        "resp": [
+          "Refactored, modularized, and updated legacy codebase from AngularJS in JS to VueJS in TS with modern development standards, reducing operating costs and improving functionality.",
+          "Reduced complete loading time of main monitoring dashboard from 30 sec to 10 sec.",
+          "Modernized monolithic design to 3 new microservices.",
+          "Increased code coverage and code smell from 68% to 92% and optimize usability as well.",
+          "Conducted a VueJS knowledge transfer session for team.",
+          "Quickly onboarded two new developers and mentored them during their first couples of development sprint."
+        ],
+        "tools": "",
+        "services": ""
+      }
+    },
+    {
+      "company": "InRhythm Solution Pvt. Ltd",
+      "title": "Junior Software Engineer",
+      "location": "Hyderabad, India",
+      "date": "July 2017 to November 2019",
+      "desc": {
+        "info": "",
+        "resp": [
+          "Contributed ideas and suggestions in team meetings and delivered updates on deadlines, designs, and enhancements.",
+          "Produced advanced and clean code for diverse applications.",
+          "Tuned and improved software source code based upon new user requirements and technical guidelines.",
+          "Worked closely with architect and project manager on two major modules i.e., Report & Storyboard.",
+          "Optimized grid rendering time on virtual scroll from 1sec to 0.35sec.",
+          "Documented technical things about Report & Storyboard modules"
+        ],
+        "tools": "",
+        "services": ""
+      }
+    }
+  ],
+  "education": [{
+      "school": "Sathyabama University",
+      "degree": "B.Tech: Information Technology",
+      "location": "Chennai, Tamil Nadu",
+      "yearOfPassing": "May’ 2017",
+      "grade": "8.64 CGPA"
+    },
+    {
+      "school": "BR DAV Public School",
+      "degree": "Intermediate: PCM",
+      "location": "Begusarai, Bihar",
+      "yearOfPassing": "May’ 2013",
+      "grade": "85%"
+    },
+    {
+      "school": "HFC DAV Public School",
+      "degree": "High School",
+      "location": "Barauni, Bihar",
+      "yearOfPassing": "June’ 2011",
+      "grade": "9.4 CGPA"
+    }
+  ],
+  "tools": [{
+      "name": "Repo Tools",
+      "value": "TFS, GIT"
+    },
+    {
+      "name": "Deployment",
+      "value": "Jenkins, Heroku, GitHub Actions"
+    },
+    {
+      "name": "Logging",
+      "value": "Kibana"
+    },
+    {
+      "name": "Code Coverage",
+      "value": "Sonarqube"
+    }
+  ],
+  "skill": [{
+      "name": "JavaScript",
+      "rating": "80%"
+    },
+    {
+      "name": "TypeScript",
+      "rating": "60%"
+    },
+    {
+      "name": "Angular",
+      "rating": "80%"
+    },
+    {
+      "name": "VueJS",
+      "rating": "80%"
+    },
+    {
+      "name": "HTML/CSS",
+      "rating": "80%"
+    },
+    {
+      "name": "NodeJS",
+      "rating": "70%"
+    },
+    {
+      "name": "ExpressJS",
+      "rating": "70%"
+    },
+    {
+      "name": "C++",
+      "rating": "70%"
+    },
+    {
+      "name": "Jasmine",
+      "rating": "80%"
+    },
+    {
+      "name": "Jest",
+      "rating": "80%"
+    },
+    {
+      "name": "MongoDB",
+      "rating": "50%"
+    }
+  ],
+  "socialMedia": [{
+      "name": "Medium",
+      "url": "https://medium.com/@ktan2050"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/k10oo7"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/anand-ketan/"
+    }
+  ]
+}

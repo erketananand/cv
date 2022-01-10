@@ -1,0 +1,34 @@
+{
+    "[yaml]": {
+        "editor.autoIndent": "none",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "auto-close-tag.activationOnLanguage": [
+        "*"
+    ],
+    "auto-close-tag.enableAutoCloseSelfClosingTag": true,
+    "auto-close-tag.enableAutoCloseTag": true,
+    "editor.detectIndentation": true,
+    "editor.fontSize": 20,
+    "editor.tabSize": 4,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "explorer.sortOrder": "type",
+    "files.autoSave": "onWindowChange",
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": true,
+    "window.title": "${dirty}${activeEditorLong}${separator}${activeEditorShort}${separator}${appName}",
+    "window.zoomLevel": 0,
+    "vetur.format.defaultFormatter.ts": "js-beautify-html",
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "vetur.format.defaultFormatterOptions": {
+        "prettier": {
+            "singleQuote": true
+        }
+    }
+}
